@@ -16,13 +16,21 @@ body {
     color: #fff;
 }
 .header--sub-header {
-    font-size: 21px
+    font-size: 21px;
     color: grey;
 }
 
-/*heading*/
+/*link*/
 .link--cta {
     font-size: 16px;
-    color: aquamarine
+    color: aquamarine;
 }
+/*footer*/
+.footer--copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
+
+
 
